@@ -1,0 +1,44 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: #0A5B61;
+}
+.container{
+   border: 2px solid #000;
+   text-align: center;
+   padding: 2rem;
+}
+.quote-container{
+    background-color: #fff;
+    padding: 2rem;
+    border-radius: 10px;
+}
+.quote{
+    font-size: 1.2rem;
+    line-height: 25px;
+}
+.title{
+    background-color: #000;
+    color: #fff;
+    padding: 1rem;
+    width: 50%;
+    margin: 20px auto;
+    border-radius: 5px;
+}
+.person{
+    font-size: 1.3rem;
+    color: red;
+    letter-spacing: 5px;
+    margin-bottom: 10px;
+}
+#btnquote{
+    font-size: 1rem;
+    padding: 10px 15px;
+    background-color: #000;
+    color: #fff;
+    border-radius: 5px;
+}
+
